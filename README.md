@@ -20,6 +20,13 @@ A modern e-commerce web application built with **Next.js App Router**, featuring
 - Context API
 - Vercel (Deployment)
 
+Future Improvements
+Cart persistence (localStorage)
+User authentication
+Stripe payments
+Backend with MongoDB
+Admin dashboard
+
 ## 📦 Installation
 
 ```bash

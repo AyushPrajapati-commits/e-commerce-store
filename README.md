@@ -34,10 +34,3 @@ git clone https://github.com/YOUR_USERNAME/ecommerce-store.git
 cd ecommerce-store
 npm install
 npm run dev
-
-Future Improvements
-Cart persistence (localStorage)
-User authentication
-Stripe payments
-Backend with MongoDB
-Admin dashboard
